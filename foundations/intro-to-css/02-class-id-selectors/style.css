@@ -1,13 +1,11 @@
 /* Add CSS Styling */
-.one,
-.three,
-.five {
-    background-color: pink;
+.odd {
+    background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #two {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
